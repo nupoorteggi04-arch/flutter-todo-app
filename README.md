@@ -26,10 +26,17 @@ A simple To-Do application built using Flutter and Dart. This project was create
 - Checkbox handling
 - Dynamic UI rendering
 
+## How to run
+- Clone the repository
+- Navigate to the project directory
+- Run:
+      flutter pub get
+      flutter run
+
 ## Project Structure
 
 ```text
 lib/
 └── main.dart
 
-** How to run
+
