@@ -30,8 +30,8 @@ A simple To-Do application built using Flutter and Dart. This project was create
 - Clone the repository
 - Navigate to the project directory
 - Run:
-      flutter pub get
-      flutter run
+      -flutter pub get
+      -flutter run
 
 ## Project Structure
 
