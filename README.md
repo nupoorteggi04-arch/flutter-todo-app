@@ -32,10 +32,4 @@ A simple To-Do application built using Flutter and Dart. This project was create
 lib/
 └── main.dart
 
-
-## How to Run
-Clone the repository
-Navigate to the project directory
-Run:
-flutter pub get
-flutter run
+** How to run
