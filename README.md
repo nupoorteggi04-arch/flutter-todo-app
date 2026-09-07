@@ -1,17 +1,41 @@
-# todo_app
+# Flutter To-Do App
 
-A new Flutter project.
+A simple To-Do application built using Flutter and Dart. This project was created to understand the fundamentals of Flutter application development, including state management, widgets, user input, and dynamic lists.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add new tasks
+- Mark tasks as completed using checkboxes
+- Display tasks dynamically
+- Simple and clean user interface
+- State management using `setState()`
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Concepts Learned
+
+- StatelessWidget and StatefulWidget
+- Widget tree
+- `setState()`
+- TextField and TextEditingController
+- Lists and custom Dart classes
+- Checkbox handling
+- Dynamic UI rendering
+
+## Project Structure
+
+```text
+lib/
+└── main.dart
+
+
+## How to Run
+Clone the repository
+Navigate to the project directory
+Run:
+flutter pub get
+flutter run
